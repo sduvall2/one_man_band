@@ -1,0 +1,17 @@
+Content\MessageFont.xnb
+Content\GoalFont.xnb
+Content\joint.xnb
+Content\jointGreen.xnb
+Content\jointPurple.xnb
+Content\jointRed.xnb
+Content\jointYellow.xnb
+Content\cymbal.xnb
+Content\cymbal2.xnb
+Content\line.xnb
+Content\lineDarkGreenSmall.xnb
+Content\lineGreen.xnb
+Content\lineGreenSmall.xnb
+Content\lineYellowSmall.xnb
+Content\Crash-Cymbal-5.xnb
+Content\Slit Drum 01.xnb
+Content\applause-2.xnb

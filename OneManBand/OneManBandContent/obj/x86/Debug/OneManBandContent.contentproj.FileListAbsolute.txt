@@ -1,0 +1,5 @@
+U:\CSC 499 Research\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\OneManBandContent.contentprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\OneManBand\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\OneManBandContent.contentprojResolveAssemblyReference.cache
+U:\CSC 499 Research\SHOW\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\OneManBandContent.contentprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\OneManBand SHOW SHANNON back\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\OneManBandContent.contentprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\OneManBandContent.contentprojResolveAssemblyReference.cache

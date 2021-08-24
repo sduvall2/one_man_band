@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MessageFont.spritefont</Source>
+      <Name>MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\MessageFont.xnb</Output>
+      <Time>2014-04-23T17:28:35.7093492-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GoalFont.spritefont</Source>
+      <Name>GoalFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\GoalFont.xnb</Output>
+      <Time>2014-04-23T17:28:35.5502442-04:00</Time>
+    </Item>
+    <Item>
+      <Source>joint.png</Source>
+      <Name>joint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\joint.xnb</Output>
+      <Time>2014-04-23T17:28:35.5762596-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jointGreen.png</Source>
+      <Name>jointGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\jointGreen.xnb</Output>
+      <Time>2014-04-23T17:28:35.600277-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jointPurple.png</Source>
+      <Name>jointPurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\jointPurple.xnb</Output>
+      <Time>2014-04-23T17:28:35.6222905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jointRed.png</Source>
+      <Name>jointRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\jointRed.xnb</Output>
+      <Time>2014-04-23T17:28:35.6433048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jointYellow.png</Source>
+      <Name>jointYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\jointYellow.xnb</Output>
+      <Time>2014-04-23T17:28:35.6653229-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cymbal.png</Source>
+      <Name>cymbal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\cymbal.xnb</Output>
+      <Time>2014-04-23T17:28:35.5042113-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cymbal2.png</Source>
+      <Name>cymbal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\cymbal2.xnb</Output>
+      <Time>2014-04-23T17:28:35.5252252-04:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\line.xnb</Output>
+      <Time>2014-04-23T17:28:35.6893357-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lineDarkGreenSmall.png</Source>
+      <Name>lineDarkGreenSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\lineDarkGreenSmall.xnb</Output>
+      <Time>2014-04-28T18:36:15.3795424-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lineGreen.png</Source>
+      <Name>lineGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\lineGreen.xnb</Output>
+      <Time>2014-04-28T18:36:15.410563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lineGreenSmall.png</Source>
+      <Name>lineGreenSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\lineGreenSmall.xnb</Output>
+      <Time>2014-04-28T18:36:15.4184075-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lineYellowSmall.png</Source>
+      <Name>lineYellowSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\lineYellowSmall.xnb</Output>
+      <Time>2014-04-28T21:22:06.4648169-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Crash-Cymbal-5.wav</Source>
+      <Name>Crash-Cymbal-5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\Crash-Cymbal-5.xnb</Output>
+      <Time>2014-04-23T17:28:35.3179041-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Slit Drum 01.wav</Source>
+      <Name>Slit Drum 01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\Slit Drum 01.xnb</Output>
+      <Time>2014-04-23T17:28:35.7673877-04:00</Time>
+    </Item>
+    <Item>
+      <Source>applause-2.wav</Source>
+      <Name>applause-2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\applause-2.xnb</Output>
+      <Time>2014-04-23T17:28:35.2681209-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBandContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBandContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Robert\Desktop\Schuyler Research\Spring 2014\OneManBand SURF Version\OneManBand SHOW SHANNON\OneManBand\OneManBand\OneManBand\OneManBand\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-27T16:13:13.2861931-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
